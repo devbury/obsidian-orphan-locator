@@ -5,7 +5,7 @@
 	"minAppVersion": "0.15.0",
 	"description": "Rotate and save a PDF clockwise by 90 degrees",
 	"author": "David Noel",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/devbury/obsidian-rotate-pdf-plugin",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
